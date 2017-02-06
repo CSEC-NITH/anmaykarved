@@ -14,7 +14,7 @@ Web Developer : Mayank Methi
 
 Assistant Developer : Karthik Vedantham
 
-In case of any queries contact us at 
-1. Anubhaw Bhalotia : 8351802321
-2. Kartik Saxena : 9882745935
-3. Mayank Methi : 8562819039
+In case of any queries contact us at   
+1. Anubhaw Bhalotia : 8351802321  
+2. Kartik Saxena : 9882745935  
+3. Mayank Methi : 8562819039  
