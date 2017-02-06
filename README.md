@@ -1,7 +1,8 @@
 # anmaykarved
 Our team "anmaykarved" has created 5 projects presented through a website https://anmaykarved.000webhostapp.com/ 
 This website includes the details of all the 5 projects and links to download the executable file and password protected source file of each project.
-This repository comprises of the source file of all the 5 projects. 
+This repository comprises of the source file of all the 5 projects.  
+NOTE : All the projects can be executed in DevC++  
 
 # Developers
 ENCRYPTION 101 : Kartik Saxena  
