@@ -512,6 +512,7 @@ void add(int p,char c)
 int main()
   {
     int i,t,a[9],anubhaw=50,y=5,j,z=1;
+    printf("Developer - Anubhaw Bhalotia");
     d:
     gotoxy(52,0);
     printf("TIC-TAC-TOE");
