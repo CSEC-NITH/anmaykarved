@@ -26,7 +26,7 @@ In case of any queries contact us at
 2. Kartik Saxena : 9882745935  
 3. Mayank Methi : 8562819039  
 
-# Team Members
+# Authors
 1. Anubhaw Bhalotia
 2. Mayank Methi
 3. Kartik Saxena
