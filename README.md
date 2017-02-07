@@ -25,3 +25,9 @@ In case of any queries contact us at
 1. Anubhaw Bhalotia : 8351802321  
 2. Kartik Saxena : 9882745935  
 3. Mayank Methi : 8562819039  
+
+# Team Members
+1. Anubhaw Bhalotia
+2. Mayank Methi
+3. Kartik Saxena
+4. Karthik Vedantham
