@@ -5,9 +5,9 @@ This repository comprises of the source file of all the 5 projects.
 NOTE : All the projects can be executed in DevC++  
 
 # Developers
-ENCRYPTION 101 : Kartik Saxena  
 SUDOKU SOLVER : Anubhaw Bhalotia  
-FACTORIAL OF 'ANY' NUMBER : Anubhaw Bhalotia  
+FACTORIAL OF 'ANY' NUMBER : Anubhaw Bhalotia    
+ENCRYPTION 101 : Kartik Saxena    
 CONNECTING THE DOTS : Anubhaw Bhalotia  
 TIC TAC TOE : Anubhaw Bhalotia  
 
