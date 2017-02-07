@@ -106,7 +106,8 @@ int main()
     l3->prev=NULL;
     pc(l3,n);
     cal(l3,n);
-    printf("\nType a key and press 'enter' to exit :");
+    printf("\n\nDeveloper - Anubhaw Bhalotia");
+    printf("\n\nType a key and press 'enter' to exit :");
     scanf("%d",&g);
     return 0;
   }
