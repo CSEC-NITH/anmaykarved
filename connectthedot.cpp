@@ -304,6 +304,8 @@ int main()
   	dot *a[R][C];
   	int i,r=R,c=C,t;
   	char toss,p1n[10],p2n[10];
+	gotoxy(0,0);
+	printf("Developer - Anubhaw Bhalotia");
   	gotoxy(52,0);
   	printf("CONNECTING THE DOTS");
   	gotoxy(50,1);
