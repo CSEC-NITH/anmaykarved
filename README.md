@@ -4,6 +4,12 @@ This website includes the details of all the 5 projects and links to download th
 This repository comprises of the source file of all the 5 projects.  
 NOTE : All the projects can be executed in DevC++  
 
+# Instructions
+You need to have Dev C++   
+Download Dev C++ from our website   
+Open any of the 5 project  
+Download the Executable File by clicking on the Download button on the left side
+
 # Developers
 SUDOKU SOLVER : Anubhaw Bhalotia  
 FACTORIAL OF 'ANY' NUMBER : Anubhaw Bhalotia    
