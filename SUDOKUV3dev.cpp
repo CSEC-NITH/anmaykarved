@@ -504,6 +504,8 @@ int main()
     char v;
     list *a[9][9],*b[9][9];
     int i,j,c=0,ii,jj;
+    gotoxy(0,0);
+    printf("Developer - Anubhaw Bhalotia");
     gotoxy(50,0);
     printf("SUDOKU SOLVER");
     gotoxy(48,1);
